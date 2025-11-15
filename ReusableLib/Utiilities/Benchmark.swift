@@ -1,12 +1,4 @@
-//// 	 
-//	Benchmark.swift
-//	ReusableLib
-//
-//	Created By Altametrics on 05/08/25
-//	
 
-//	Hubworks: https://www.hubworks.com
-//
 
 
 import Foundation

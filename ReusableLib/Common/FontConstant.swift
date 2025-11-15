@@ -1,12 +1,4 @@
-//// 	 
-//	FontConstant.swift
-//	ReusableLib
-//
-//	Created By Altametrics on 15/09/25
-//	
 
-//	Hubworks: https://www.hubworks.com
-//
 
 
 import Foundation
